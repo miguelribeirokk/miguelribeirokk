@@ -4,6 +4,8 @@
 - 🌱 Meu objetivo é transformar a vida das pessoas através da inteligência articial!
 - 🤝 Sempre buscando aprender e aperfeiçar minhas habilidades em Programação e Análise de Dados!
 
+
+
 <div>
 <a href="https://github.com/miguelribeirokk">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelribeirokk&layout=compact&langs_count=7&theme=dracula"/>

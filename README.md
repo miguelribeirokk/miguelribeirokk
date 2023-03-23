@@ -13,3 +13,5 @@
 </div>
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/miguel-ant%C3%B4nio-ribeiro-e-silva-8a18b6241/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/miguel_ribeiro02/)
+
+ 

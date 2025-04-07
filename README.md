@@ -1,4 +1,2 @@
-### Olá 👋
-## Sou graduando de Ciência da Computação na UFV-CAF :) e pesquisador bolsista pelo:
-## 🔭 NESPED https://nesped.caf.ufv.br/
-
+## Olá 👋
+## Analista de Dados, Pesquisador Científico e Bacharel em Ciência da Computação pela Universidade Federal de Viçosa

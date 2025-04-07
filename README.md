@@ -25,9 +25,9 @@ Gosto de trabalhar com desafios reais de **negócios**, especialmente onde posso
   
 | 💻 Back-end        | 📦 Banco de Dados     | 📊 Data & Viz         | 🧪 Científico        |
 |-------------------|-----------------------|------------------------|----------------------|
-| Python, FastAPI   | Azure CosmosDB, MongoDB | Pandas, Matplotlib, Seaborn | Jupyter, SciPy       |
-| Git, GitLab CI/CD | PostgreSQL, MySQL     | Plotly, Dash, Streamlit | NumPy, Scikit-learn  |
-| Bash, Conda       | SQLite, Redis         | Power BI               | Latex, Notion API    |
+| Python, FastAPI,   | Azure CosmosDB, MongoDB, | Pandas, Matplotlib, Seaborn, | Jupyter, SciPy,       |
+| Git, GitLab CI/CD, | PostgreSQL, MySQL,     | Plotly, Dash, Sheets, | NumPy, Scikit-learn,  |
+| Bash, Conda       | SQLite         | Power BI               | Latex, Tensorflow    |
 
 </div>
 
